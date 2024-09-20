@@ -1,2 +1,2 @@
 # 수학 계산관 관련한 코드입니다.
-1. calculator.py : 계산기에 있는 기능들을 제공하는 모듈입니다.
+1. calculator.py : 계산기 python 코드입니다.
