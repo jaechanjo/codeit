@@ -20,3 +20,8 @@ def get_median(x):
     # 길이가 짝수일 경우, 가운데 두 값의 평균 반환
     else:
         return (x[n // 2 - 1] + x[n // 2]) / 2
+def get_abs(x):
+    if x < 0:
+        return -x
+    else:
+        return x
